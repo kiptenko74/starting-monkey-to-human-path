@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE restaurant SYSTEM "restaraunt.dtd">
+<restaurant>
+    <date day="1" month="2" year="3">
+        <order>
+            <item cost="11" name="makaroshki">
+            </item>
+            <officiant firstname="Nikolay"  secondname="Valyev">
+            </officiant>
+            <item cost="12" name="kotletki">
+            </item>
+            <totalcost>
+            </totalcost>
+        </order>
+    </date>
+</restaurant>
